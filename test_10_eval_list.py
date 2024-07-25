@@ -1,0 +1,1 @@
+[eval(el) for el in input().split()]
